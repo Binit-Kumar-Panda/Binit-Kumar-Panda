@@ -1,3 +1,4 @@
+![logo](https://github.com/Binit-Kumar-Panda/Binit-Kumar-Panda/blob/main/data-science-uses-scientific-methods-processes-algorithms-systems-to-extract-knowledge-insights-various-concept-207016521.webp)
 <h1 align="center">Hi 👋, I'm Binit Kumar Panda</h1>
 <h3 align="center">Highly motivated data science enthusiast</h3>
 

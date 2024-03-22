@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **binitpanda05@gmail.com**
 
-- ⚡ Fun fact **I Think i am funny**
+- ⚡ Fun fact **I Think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
